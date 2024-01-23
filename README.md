@@ -1,1 +1,1 @@
-Palindrom checker app is created as one of the assinements to achieve the FreeCodeCamp certification for Javascript algoritms and data structures.
+The Palindrome Checker app is created as one of the assignments to achieve the FreeCodeCamp certification for Javascript algorithms and data structures.
